@@ -11,7 +11,7 @@ This repository contains papers on **optimizing the efficiency of large language
 
 Papers on large language model cluster management typically involve optimizations from multiple perspectives simultaneously. For example, they may jointly optimize request scheduling and resource allocation. **We categorize these papers based on their primary focus.**
 
-We sincerely welcome everyone to collect articles presented at top-tier conferences in the fields of systems and artificial intelligence and submit pull requests.
+We sincerely welcome everyone to collect papers presented at top-tier conferences in the fields of systems and artificial intelligence and submit pull requests.
 
 
 
