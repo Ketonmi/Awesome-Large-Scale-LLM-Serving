@@ -47,16 +47,16 @@ We sincerely welcome everyone to collect papers presented at top-tier conference
 - **\[Arxiv'25\]** [Hierarchical Autoscaling for Large Language Model Serving with Chiron.](https://arxiv.org/abs/2501.08090)  *University of Illinois at Urbana-Champaign & IBM Research*
 - **\[Arxiv'25\]** [Serving Models, Fast and Slow: Optimizing Heterogeneous LLM Inferencing Workloads at Scale.](https://arxiv.org/abs/2502.14617)  *University of Illinois at Urbana-Champaign &  Microsoft & Indian Institute of Science*
 - **\[Arxiv'24\]** [ENOVA: Autoscaling towards Cost-effective and Stable Serverless LLM Serving.](https://arxiv.org/abs/2407.09486)  *EmergingAI & Sun Yat-Sen University & Exascale Labs & University of Toronto*
-
 - **\[ASPLOS'24\]** [SpotServe: Serving Generative Large Language Models on Preemptible Instances.](https://dl.acm.org/doi/10.1145/3620665.3640411)  *Carnegie Mellon University & Peking University & The Chinese University of Hong Kong*
 
 ### <span id="serverless-llm-serving">3. Serverless LLM Serving</span>
 
 > Accelerating LLM loading and service startup
 
+- **\[Arxiv'25\]** [ 𝜆Scale: Enabling Fast Scaling for Serverless Large Language Model Inference.](https://arxiv.org/abs/2502.09922)  *The Chinese University of Hong Kong  &  University of Virginia &  Hong Kong University of Science and Technology &  Alibaba Group &  Nokia Bell Labs*
 - **\[Arxiv'25\]** [Towards Swift Serverless LLM Cold Starts with ParaServe.](https://arxiv.org/abs/2502.15524)  *Peking University & Alibaba Group*
 - **\[ASPLOS'25\]** [Medusa: Accelerating Serverless LLM Inference with Materialization.](https://dl.acm.org/doi/10.1145/3669940.3707285)  *Tsinghua University* 
-
+- **\[Arxiv'24\]** [Fast and Live Model Auto Scaling with O(1) Host Caching.](https://arxiv.org/abs/2412.17246)  *Shanghai Jiao Tong University & Huawei*
 - **\[OSDI'24\]** [ServerlessLLM: Low-Latency Serverless Inference for Large Language Models.](https://www.usenix.org/conference/osdi24/presentation/fu) *University of Edinburgh & Nanyang Technological University*
 
 ### <span id="prefill-decoding-disaggregation">4. Prefill-Decoding Disaggregation</span>
