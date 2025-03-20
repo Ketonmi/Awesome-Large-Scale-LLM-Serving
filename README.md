@@ -52,6 +52,7 @@ We sincerely welcome everyone to collect papers presented at top-tier conference
 - **\[Arxiv'25\]** [DEEPFLOW: Serverless Large Language Model Serving at Scale .](https://arxiv.org/abs/2501.14417)  *Huawei & Peking University* 
 - **\[Arxiv'25\]** [Hierarchical Autoscaling for Large Language Model Serving with Chiron.](https://arxiv.org/abs/2501.08090)  *University of Illinois at Urbana-Champaign & IBM Research*
 - **\[Arxiv'25\]** [Serving Models, Fast and Slow: Optimizing Heterogeneous LLM Inferencing Workloads at Scale.](https://arxiv.org/abs/2502.14617)  *University of Illinois at Urbana-Champaign &  Microsoft & Indian Institute of Science*
+- **\[Arxiv'24\]** [DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency.](https://arxiv.org/pdf/2408.00741)  *University of Illinois at Urbana-Champaign & Microsoft Azure Research*
 - **\[Arxiv'24\]** [ENOVA: Autoscaling towards Cost-effective and Stable Serverless LLM Serving.](https://arxiv.org/abs/2407.09486)  *EmergingAI & Sun Yat-Sen University & Exascale Labs & University of Toronto*
 - **\[ASPLOS'24\]** [SpotServe: Serving Generative Large Language Models on Preemptible Instances.](https://dl.acm.org/doi/10.1145/3620665.3640411)  *Carnegie Mellon University & Peking University & The Chinese University of Hong Kong*
 
@@ -80,7 +81,6 @@ We sincerely welcome everyone to collect papers presented at top-tier conference
 > Optimizing transmission of KV Cache
 
 - **\[HotInfra'24\]** [Do Large Language Models Need a Content Delivery Network?](https://arxiv.org/pdf/2409.13761) *University of Chicago*
-
 - **\[SIGCOMM'24\]** [Cachegen: Kv cache compression and streaming for fast large language model serving.](https://dl.acm.org/doi/10.1145/3651890.3672274) *University of Chicago & Microsoft & Stanford University*
 
 ## Acknowledgements
