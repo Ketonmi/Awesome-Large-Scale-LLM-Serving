@@ -31,8 +31,14 @@ We sincerely welcome everyone to collect papers presented at top-tier conference
 
 ### <span id="request-job-scheduling">1. Request & Job Scheduling</span>
 
-> Scheduling online requests and offline jobs
+> Inter-instance and intra-instance request/job scheduling
 
+- **\[EuroSys'25\]** [Fast State Restoration in LLM Serving with HCache.](https://arxiv.org/abs/2410.05004) *Tsinghua University*
+- **\[Arxiv'25\]** [AccelGen: Heterogeneous SLO-Guaranteed High-Throughput LLM Inference Serving for Diverse Applications.](https://arxiv.org/abs/2503.13737) *University of Virginia*
+- **\[Arxiv'25\]** [Is the GPU Half-Empty or Half-Full? Practical Scheduling Techniques for LLMs.](https://arxiv.org/abs/2410.17840) *Massachusetts Institute of Technology & Databricks*
+- **\[Arxiv'24\]** [Aladdin: Joint Placement and Scaling for SLO-Aware LLM Serving.](https://arxiv.org/abs/2405.06856) *Stony Brook University &  Azure Research - Systems*
+- **\[Arxiv'24\]** [ConServe: Harvesting GPUs for Low-Latency and High-Throughput Large Language Model Serving.](https://arxiv.org/abs/2410.01228) *University of California at Los Angeles & Intel*
+- **\[ATC'24\]** [Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention.](https://www.usenix.org/conference/atc24/presentation/gao-bin-cost) *National University of Singapore & Shanghai Jiaotong University &  Huawei Cloud*
 - **\[ICLR'25\]** [Preble: Efficient Distributed Prompt Scheduling for LLM Serving.](https://arxiv.org/abs/2407.00023)  *University of California, San Diego*
 - **\[OSDI'24\]** [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable.](https://www.usenix.org/conference/osdi24/presentation/lin-chaofan)  *Shanghai Jiao Tong University & Microsoft Research Asia*
 - **\[OSDI'24\]** [dLoRA: Dynamically Orchestrating Requests and Adapters for LoRA LLM Serving.](https://www.usenix.org/conference/osdi24/presentation/wu-bingyang)  *Peking University & Shanghai Artificial Intelligence Laboratory*
