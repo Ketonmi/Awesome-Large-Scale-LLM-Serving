@@ -74,13 +74,13 @@ We sincerely welcome everyone to collect papers presented at top-tier conference
 
 > Enhancing p/d disaggregation-based LLM serving
 
+- **\[Arxiv'25\]** [KVDirect: Distributed Disaggregated LLM Inference.](https://arxiv.org/abs/2501.14743) *Rutgers University & ByteDance*
 - **\[ICLR'25\]** [HexGen-2: Disaggregated Generative Inference of LLMs in Heterogeneous Environment.](https://arxiv.org/abs/2502.07903) *The Hong Kong University of Science and Technology*
 - **\[ICASSP'25\]** [DynamicAttention: Dynamic KV Cache for Disaggregate LLM Inference.](https://ieeexplore.ieee.org/document/10890367) *Ant Group*
 - **\[FAST'25\]** [MOONCAKE: Trading More Storage for Less Computation – A KVCache-centric Architecture for Serving LLM Chatbot.](https://www.usenix.org/system/files/fast25-qin.pdf) *Moonshot AI & Tsinghua University*
 - **\[Arxiv'24\]** [Inference without Interference: Disaggregate LLM Inference for Mixed Downstream Workloads.](https://arxiv.org/abs/2401.11181) *University of Chinese Academy of Sciences &  Huawei*
 - **\[Arxiv'24\]** [MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool.](https://arxiv.org/abs/2406.17565) *Huawei & University of Chinese Academy of Sciences &  Peking University*
 - **\[Arxiv'24\]** [GreenLLM: Disaggregating Large Language Model Serving on Heterogeneous GPUs for Lower Carbon Emissions.](https://ieeexplore.ieee.org/document/10890367) *Purdue University &  University of Waterloo*
-- **\[Arxiv'24\]** [KVDirect: Distributed Disaggregated LLM Inference.](https://arxiv.org/abs/2501.14743) *Rutgers University & ByteDance*
 - **\[Arxiv'24\]** [P/D-Serve: Serving Disaggregated Large Language Model at Scale.](https://arxiv.org/abs/2408.08147) *Huawei*
 - **\[OSDI'24\]** [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving.](https://www.usenix.org/conference/osdi24/presentation/zhong-yinmin) *Peking University & StepFun & University of California, San Diego*
 - **\[SOSP'24\]** [LoongServe: Efficiently Serving Long-Context Large Language Models with Elastic Sequence Parallelism.](https://dl.acm.org/doi/10.1145/3694715.3695948 ) *Peking University &  Shanghai AI Lab*
