@@ -64,7 +64,7 @@ We sincerely welcome everyone to collect papers presented at top-tier conference
 
 > Accelerating LLM loading and service startup
 
-- **\[Arxiv'25\]** [ 𝜆Scale: Enabling Fast Scaling for Serverless Large Language Model Inference.](https://arxiv.org/abs/2502.09922)  *The Chinese University of Hong Kong  &  University of Virginia &  Hong Kong University of Science and Technology &  Alibaba Group &  Nokia Bell Labs*
+- **\[Arxiv'25\]** [𝜆Scale: Enabling Fast Scaling for Serverless Large Language Model Inference.](https://arxiv.org/abs/2502.09922)  *The Chinese University of Hong Kong  &  University of Virginia &  Hong Kong University of Science and Technology &  Alibaba Group &  Nokia Bell Labs*
 - **\[Arxiv'25\]** [Towards Swift Serverless LLM Cold Starts with ParaServe.](https://arxiv.org/abs/2502.15524)  *Peking University & Alibaba Group*
 - **\[ASPLOS'25\]** [Medusa: Accelerating Serverless LLM Inference with Materialization.](https://dl.acm.org/doi/10.1145/3669940.3707285)  *Tsinghua University* 
 - **\[Arxiv'24\]** [Fast and Live Model Auto Scaling with O(1) Host Caching.](https://arxiv.org/abs/2412.17246)  *Shanghai Jiao Tong University & Huawei*
@@ -80,10 +80,10 @@ We sincerely welcome everyone to collect papers presented at top-tier conference
 - **\[Arxiv'24\]** [Inference without Interference: Disaggregate LLM Inference for Mixed Downstream Workloads.](https://arxiv.org/abs/2401.11181) *University of Chinese Academy of Sciences &  Huawei*
 - **\[Arxiv'24\]** [MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool.](https://arxiv.org/abs/2406.17565) *Huawei & University of Chinese Academy of Sciences &  Peking University*
 - **\[Arxiv'24\]** [GreenLLM: Disaggregating Large Language Model Serving on Heterogeneous GPUs for Lower Carbon Emissions.](https://ieeexplore.ieee.org/document/10890367) *Purdue University &  University of Waterloo*
-- **\[Arxiv'24\]** [GreenLLM: Disaggregating Large Language Model Serving on Heterogeneous GPUs for Lower Carbon Emissions.](https://arxiv.org/abs/2501.14743) *Rutgers University & ByteDance*
+- **\[Arxiv'24\]** [KVDirect: Distributed Disaggregated LLM Inference.](https://arxiv.org/abs/2501.14743) *Rutgers University & ByteDance*
 - **\[Arxiv'24\]** [P/D-Serve: Serving Disaggregated Large Language Model at Scale.](https://arxiv.org/abs/2408.08147) *Huawei*
 - **\[OSDI'24\]** [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving.](https://www.usenix.org/conference/osdi24/presentation/zhong-yinmin) *Peking University & StepFun & University of California, San Diego*
-- **\[SOSP'24\]** [LoongServe: Efficiently Serving Long-Context Large Language Models with Elastic Sequence Parallelism.]( https://dl.acm.org/doi/10.1145/3694715.3695948 ) *Peking University & StepFun & University of California, San Diego*
+- **\[SOSP'24\]** [LoongServe: Efficiently Serving Long-Context Large Language Models with Elastic Sequence Parallelism.](https://dl.acm.org/doi/10.1145/3694715.3695948 ) *Peking University &  Shanghai AI Lab*
 
 ### <span id="communication-optimization">5. Communication Optimization</span>
 
