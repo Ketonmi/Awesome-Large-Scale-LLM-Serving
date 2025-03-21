@@ -44,6 +44,9 @@ We sincerely welcome everyone to collect papers presented at top-tier conference
 - **\[OSDI'24\]** [dLoRA: Dynamically Orchestrating Requests and Adapters for LoRA LLM Serving.](https://www.usenix.org/conference/osdi24/presentation/wu-bingyang)  *Peking University & Shanghai Artificial Intelligence Laboratory*
 - **\[OSDI'24\]** [Llumnix: Dynamic Scheduling for Large Language Model Serving.](https://www.usenix.org/conference/osdi24/presentation/sun-biao)  *Alibaba Group*
 - **\[SoCC'24\]** [Queue Management for SLO-Oriented Large Language Model Serving.](https://dl.acm.org/doi/10.1145/3698038.3698523)  *University of Illinois at Urbana-Champaign & IBM Research*
+- **\[ASPLOS'24\]** [ExeGPT: Constraint-Aware Resource Scheduling for LLM Inference.](https://dl.acm.org/doi/10.1145/3620665.3640383)  *Hanyang University & KT Corporation*
+- **\[Arxiv'24\]** [Andes: Defining and Enhancing Quality-of-Experience in LLM-Based Text Streaming Services.](https://arxiv.org/abs/2404.16283) *University of Michigan & University of Illinois at Urbana-Champaign &  Cisco*
+- **\[Arxiv'24\]** [Mélange: Cost-Efficient Large Language Model Serving by Exploiting GPU Heterogeneity.](https://arxiv.org/abs/2404.14527)  *UC Berkeley &  National University of Singapore*
 
 ### <span id="resource-management">2. Resource Management</span>
 
