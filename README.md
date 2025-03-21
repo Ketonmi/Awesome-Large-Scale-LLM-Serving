@@ -92,7 +92,7 @@ We sincerely welcome everyone to collect papers presented at top-tier conference
 - **\[HotInfra'24\]** [Do Large Language Models Need a Content Delivery Network?](https://arxiv.org/pdf/2409.13761) *University of Chicago*
 - **\[SIGCOMM'24\]** [Cachegen: Kv cache compression and streaming for fast large language model serving.](https://dl.acm.org/doi/10.1145/3651890.3672274) *University of Chicago & Microsoft & Stanford University*
 
-## Acknowledgments
+## Acknowledegments
 
 Please contact me if I miss your name on the list, and I will add you back ASAP!
 
