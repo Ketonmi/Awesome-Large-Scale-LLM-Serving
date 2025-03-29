@@ -37,12 +37,13 @@ We sincerely welcome everyone to collect papers presented at top-tier conference
 - **\[Arxiv'25\]** [Is the GPU Half-Empty or Half-Full? Practical Scheduling Techniques for LLMs.](https://arxiv.org/abs/2410.17840) *Massachusetts Institute of Technology & Databricks*
 - **\[EuroSys'25\]** [Fast State Restoration in LLM Serving with HCache.](https://arxiv.org/abs/2410.05004) *Tsinghua University*
 - **\[ICLR'25\]** [Preble: Efficient Distributed Prompt Scheduling for LLM Serving.](https://arxiv.org/abs/2407.00023)  *University of California, San Diego*
-- **\[Arxiv'24\]** [Aladdin: Joint Placement and Scaling for SLO-Aware LLM Serving.](https://arxiv.org/abs/2405.06856) *Stony Brook University &  Azure Research - Systems*
+- **\[Arxiv'24\]** [Chameleon: Adaptive Caching and Scheduling for Many-Adapter LLM Inference Environments.](https://arxiv.org/abs/2411.17741) *University of Illinois Urbana-Champaign & IBM Research*
+- **\[Arxiv'24\]** [Aladdin: Joint Placement and Scaling for SLO-Aware LLM Serving.](https://arxiv.org/abs/2405.06856) *Stony Brook University &  Azure Research*
 - **\[Arxiv'24\]** [ConServe: Harvesting GPUs for Low-Latency and High-Throughput Large Language Model Serving.](https://arxiv.org/abs/2410.01228) *University of California at Los Angeles & Intel*
 - **\[Arxiv'24\]** [Andes: Defining and Enhancing Quality-of-Experience in LLM-Based Text Streaming Services.](https://arxiv.org/abs/2404.16283)  *University of Michigan & University of Illinois at Urbana-Champaign &  Cisco*
 - **\[Arxiv'24\]** [Mélange: Cost-Efficient Large Language Model Serving by Exploiting GPU Heterogeneity.](https://arxiv.org/abs/2404.14527)  *UC Berkeley &  National University of Singapore*
 - **\[ATC'24\]** [Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention.](https://www.usenix.org/conference/atc24/presentation/gao-bin-cost) *National University of Singapore & Shanghai Jiaotong University &  Huawei Cloud*
-- **\[ASPLOS'24\]** [ExeGPT: Constraint-Aware Resource Scheduling for LLM Inference.](https://dl.acm.org/doi/10.1145/3620665.3640383)  *Hanyang University  &  KT Corporation*
+- **\[ASPLOS'24\]** [ExeGPT: Constraint-Aware Resource Scheduling for LLM Inference.](https://dl.acm.org/doi/10.1145/3620665.3640383)  *Hanyang University & KT Corporation*
 - **\[ICML'24\]** [HexGen: Generative Inference of Large Language Model over Heterogeneous Environment.](https://arxiv.org/abs/2311.11514)  *The Hong Kong University of Science and Technology  &  ETH Zurich &  Carnegie Mellon University*
 - **\[OSDI'24\]** [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable.](https://www.usenix.org/conference/osdi24/presentation/lin-chaofan)  *Shanghai Jiao Tong University & Microsoft Research Asia*
 - **\[OSDI'24\]** [dLoRA: Dynamically Orchestrating Requests and Adapters for LoRA LLM Serving.](https://www.usenix.org/conference/osdi24/presentation/wu-bingyang)  *Peking University & Shanghai Artificial Intelligence Laboratory*
