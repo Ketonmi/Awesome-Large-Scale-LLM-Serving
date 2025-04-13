@@ -33,6 +33,8 @@ We sincerely welcome everyone to collect papers presented at top-tier conference
 
 > Inter-instance and intra-instance request/job scheduling
 
+- **\[Arxiv'25\]** [Niyama : Breaking the Silos of LLM Inference Serving.](https://arxiv.org/abs/2503.22562) *Microsoft Research India*
+- **\[Arxiv'25\]** [Hierarchical Prediction-based Management for LMaaS Systems.](https://arxiv.org/pdf/2504.03702) *The Chinese University of Hong Kong*
 - **\[Arxiv'25\]** [AccelGen: Heterogeneous SLO-Guaranteed High-Throughput LLM Inference Serving for Diverse Applications.](https://arxiv.org/abs/2503.13737) *University of Virginia*
 - **\[Arxiv'25\]** [Is the GPU Half-Empty or Half-Full? Practical Scheduling Techniques for LLMs.](https://arxiv.org/abs/2410.17840) *Massachusetts Institute of Technology & Databricks*
 - **\[EuroSys'25\]** [Fast State Restoration in LLM Serving with HCache.](https://arxiv.org/abs/2410.05004) *Tsinghua University*
