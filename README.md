@@ -33,8 +33,10 @@ We sincerely welcome everyone to collect papers presented at top-tier conference
 
 > Inter-instance and intra-instance request/job scheduling
 
+- **\[Arxiv'25\]** [SLOs-Serve: Optimized Serving of Multi-SLO LLMs.](https://arxiv.org/abs/2504.08784) *Carnegie Mellon University & Google*
+- **\[Arxiv'25\]** [LLMSched: Uncertainty-Aware Workload Scheduling for Compound LLM Applications.](https://arxiv.org/abs/2504.03444) *Shanghai Jiao Tong University*
 - **\[Arxiv'25\]** [Echo: Efficient Co-Scheduling of Hybrid Online-Offline Tasks for Large Language Model Serving.](https://arxiv.org/pdf/2504.03651) *Nanjing University & Alibaba Group*
-- **\[Arxiv'25\]** [Niyama : Breaking the Silos of LLM Inference Serving.](https://arxiv.org/abs/2503.22562) *Microsoft Research India*
+- **\[Arxiv'25\]** [Niyama: Breaking the Silos of LLM Inference Serving.](https://arxiv.org/abs/2503.22562) *Microsoft Research India*
 - **\[Arxiv'25\]** [Hierarchical Prediction-based Management for LMaaS Systems.](https://arxiv.org/pdf/2504.03702) *The Chinese University of Hong Kong*
 - **\[Arxiv'25\]** [AccelGen: Heterogeneous SLO-Guaranteed High-Throughput LLM Inference Serving for Diverse Applications.](https://arxiv.org/abs/2503.13737) *University of Virginia*
 - **\[Arxiv'25\]** [Is the GPU Half-Empty or Half-Full? Practical Scheduling Techniques for LLMs.](https://arxiv.org/abs/2410.17840) *Massachusetts Institute of Technology & Databricks*
