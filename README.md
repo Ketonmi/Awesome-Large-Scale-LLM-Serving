@@ -17,6 +17,7 @@ We sincerely welcome everyone to collect papers presented at top-tier conference
 
 ## Contents
 
+0. [Survey](#serving-survey)
 1. [Request & Job Scheduling](#request-job-scheduling)
 2. [Resource Management](#resource-management)
 3. [Serverless LLM Serving](#serverless-llm-serving)
@@ -28,6 +29,12 @@ We sincerely welcome everyone to collect papers presented at top-tier conference
 ## 📜 Papers
 
 *You can directly click on the title to jump to the corresponding PDF link location*
+
+### <span id="serving-survey">0. Survey</span>
+
+> Inter-instance and intra-instance request/job scheduling
+
+- **\[Arxiv'25\]** [Taming the Titans: A Survey of Efficient LLM Inference Serving](https://arxiv.org/abs/2504.19720) *Soochow University & Huawei*
 
 ### <span id="request-job-scheduling">1. Request & Job Scheduling</span>
 
