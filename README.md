@@ -32,9 +32,9 @@ We sincerely welcome everyone to collect papers presented at top-tier conference
 
 ### <span id="serving-survey">0. Survey</span>
 
-> Inter-instance and intra-instance request/job scheduling
+> Survey of LLM Serving Systems
 
-- **\[Arxiv'25\]** [Taming the Titans: A Survey of Efficient LLM Inference Serving](https://arxiv.org/abs/2504.19720) *Soochow University & Huawei*
+- **\[Arxiv'25\]** [Taming the Titans: A Survey of Efficient LLM Inference Serving.](https://arxiv.org/abs/2504.19720) *Soochow University & Huawei*
 
 ### <span id="request-job-scheduling">1. Request & Job Scheduling</span>
 
@@ -66,11 +66,12 @@ We sincerely welcome everyone to collect papers presented at top-tier conference
 
 > Autoscaling and placement of LLM serving instances
 
-- **\[Arxiv'25\]** [DEEPFLOW: Serverless Large Language Model Serving at Scale .](https://arxiv.org/abs/2501.14417)  *Huawei & Peking University* 
+- **\[Arxiv'25\]** [DEEPFLOW: Serverless Large Language Model Serving at Scale.](https://arxiv.org/abs/2501.14417)  *Huawei & Peking University* 
 - **\[Arxiv'25\]** [Hierarchical Autoscaling for Large Language Model Serving with Chiron.](https://arxiv.org/abs/2501.08090)  *University of Illinois at Urbana-Champaign & IBM Research*
 - **\[Arxiv'25\]** [Serving Models, Fast and Slow: Optimizing Heterogeneous LLM Inferencing Workloads at Scale.](https://arxiv.org/abs/2502.14617)  *University of Illinois at Urbana-Champaign &  Microsoft & Indian Institute of Science*
 - **\[Arxiv'24\]** [DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency.](https://arxiv.org/pdf/2408.00741)  *University of Illinois at Urbana-Champaign & Microsoft Azure Research*
 - **\[Arxiv'24\]** [ENOVA: Autoscaling towards Cost-effective and Stable Serverless LLM Serving.](https://arxiv.org/abs/2407.09486)  *EmergingAI & Sun Yat-Sen University & Exascale Labs & University of Toronto*
+- **\[ICML'24\]** [MuxServe: Flexible Spatial-Temporal Multiplexing for Multiple LLM Serving.](https://arxiv.org/abs/2404.02015)  *The Chinese University of Hong Kong & Shanghai Artificial Intelligence Laboratory & Huazhong University of Science and Technology & Shanghai Jiao Tong University & Peking University & University of California at Berkeley & University of California at San Diego*
 - **\[ASPLOS'24\]** [SpotServe: Serving Generative Large Language Models on Preemptible Instances.](https://dl.acm.org/doi/10.1145/3620665.3640411)  *Carnegie Mellon University & Peking University & The Chinese University of Hong Kong*
 
 ### <span id="serverless-llm-serving">3. Serverless LLM Serving</span>
@@ -95,7 +96,7 @@ We sincerely welcome everyone to collect papers presented at top-tier conference
 - **\[Arxiv'24\]** [MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool.](https://arxiv.org/abs/2406.17565) *Huawei & University of Chinese Academy of Sciences & Peking University*
 - **\[Arxiv'24\]** [GreenLLM: Disaggregating Large Language Model Serving on Heterogeneous GPUs for Lower Carbon Emissions.](https://ieeexplore.ieee.org/document/10890367) *Purdue University & University of Waterloo*
 - **\[Arxiv'24\]** [P/D-Serve: Serving Disaggregated Large Language Model at Scale.](https://arxiv.org/abs/2408.08147) *Huawei*
-- **\[OSDI'24\]** [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving.](https://www.usenix.org/conference/osdi24/presentation/zhong-yinmin) *Peking University & StepFun & University of California, San Diego*
+- **\[OSDI'24\]** [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving.](https://www.usenix.org/conference/osdi24/presentation/zhong-yinmin) *Peking University & StepFun & University of California at San Diego*
 - **\[SOSP'24\]** [LoongServe: Efficiently Serving Long-Context Large Language Models with Elastic Sequence Parallelism.](https://dl.acm.org/doi/10.1145/3694715.3695948) *Peking University & Shanghai AI Lab*
 
 ### <span id="communication-optimization">5. Communication Optimization</span>
