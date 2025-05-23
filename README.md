@@ -43,10 +43,11 @@ We sincerely welcome everyone to collect papers presented at top-tier conference
 - **\[Arxiv'25\]** [SLOs-Serve: Optimized Serving of Multi-SLO LLMs.](https://arxiv.org/abs/2504.08784) *Carnegie Mellon University & Google*
 - **\[Arxiv'25\]** [LLMSched: Uncertainty-Aware Workload Scheduling for Compound LLM Applications.](https://arxiv.org/abs/2504.03444) *Shanghai Jiao Tong University*
 - **\[Arxiv'25\]** [Echo: Efficient Co-Scheduling of Hybrid Online-Offline Tasks for Large Language Model Serving.](https://arxiv.org/pdf/2504.03651) *Nanjing University & Alibaba Group*
-- **\[Arxiv'25\]** [Niyama: Breaking the Silos of LLM Inference Serving.](https://arxiv.org/abs/2503.22562) *Microsoft Research India*
+- **\[Arxiv'25\]** [Niyama: Breaking the Silos of LLM Inference Serving.](https://arxiv.org/abs/2503.22562) *Microsoft Research*
 - **\[Arxiv'25\]** [Hierarchical Prediction-based Management for LMaaS Systems.](https://arxiv.org/pdf/2504.03702) *The Chinese University of Hong Kong*
 - **\[Arxiv'25\]** [AccelGen: Heterogeneous SLO-Guaranteed High-Throughput LLM Inference Serving for Diverse Applications.](https://arxiv.org/abs/2503.13737) *University of Virginia*
 - **\[Arxiv'25\]** [Is the GPU Half-Empty or Half-Full? Practical Scheduling Techniques for LLMs.](https://arxiv.org/abs/2410.17840) *Massachusetts Institute of Technology & Databricks*
+- **\[ASPLOS'25\]** [POD-Attention: Unlocking Full Prefill-Decode Overlap for Faster LLM Inference.](https://dl.acm.org/doi/pdf/10.1145/3676641.3715996) *University of Washington & Microsoft Research*
 - **\[EuroSys'25\]** [Fast State Restoration in LLM Serving with HCache.](https://arxiv.org/abs/2410.05004) *Tsinghua University*
 - **\[ICLR'25\]** [Preble: Efficient Distributed Prompt Scheduling for LLM Serving.](https://arxiv.org/abs/2407.00023)  *University of California at San Diego*
 - **\[Arxiv'24\]** [Chameleon: Adaptive Caching and Scheduling for Many-Adapter LLM Inference Environments.](https://arxiv.org/abs/2411.17741) *University of Illinois at Urbana-Champaign & IBM Research*
@@ -57,9 +58,9 @@ We sincerely welcome everyone to collect papers presented at top-tier conference
 - **\[ATC'24\]** [Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention.](https://www.usenix.org/conference/atc24/presentation/gao-bin-cost) *National University of Singapore & Shanghai Jiaotong University &  Huawei Cloud*
 - **\[ASPLOS'24\]** [ExeGPT: Constraint-Aware Resource Scheduling for LLM Inference.](https://dl.acm.org/doi/10.1145/3620665.3640383)  *Hanyang University & KT Corporation*
 - **\[ICML'24\]** [HexGen: Generative Inference of Large Language Model over Heterogeneous Environment.](https://arxiv.org/abs/2311.11514)  *The Hong Kong University of Science and Technology  &  ETH Zurich &  Carnegie Mellon University*
-- **\[OSDI'24\]** [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable.](https://www.usenix.org/conference/osdi24/presentation/lin-chaofan)  *Shanghai Jiao Tong University & Microsoft Research Asia*
+- **\[OSDI'24\]** [Parrot: Efficient Serving of LLM-based Applications with Semantic Variable.](https://www.usenix.org/conference/osdi24/presentation/lin-chaofan)  *Shanghai Jiao Tong University & Microsoft Research*
 - **\[OSDI'24\]** [dLoRA: Dynamically Orchestrating Requests and Adapters for LoRA LLM Serving.](https://www.usenix.org/conference/osdi24/presentation/wu-bingyang)  *Peking University & Shanghai Artificial Intelligence Laboratory*
-- **\[OSDI'24\]** [Llumnix: Dynamic Scheduling for Large Language Model Serving.](https://www.usenix.org/conference/osdi24/presentation/sun-biao)  *Shanghai Jiao Tong University & Microsoft Research Asia*
+- **\[OSDI'24\]** [Llumnix: Dynamic Scheduling for Large Language Model Serving.](https://www.usenix.org/conference/osdi24/presentation/sun-biao)  *Shanghai Jiao Tong University & Microsoft Research*
 - **\[SoCC'24\]** [Queue Management for SLO-Oriented Large Language Model Serving.](https://dl.acm.org/doi/10.1145/3698038.3698523)  *University of Illinois at Urbana-Champaign & IBM Research*
 
 ### <span id="resource-management">2. Resource Management</span>
@@ -88,6 +89,7 @@ We sincerely welcome everyone to collect papers presented at top-tier conference
 
 > Enhancing p/d disaggregation-based LLM serving
 
+- **\[Arxiv'25\]** [Optimizing SLO-oriented LLM Serving with PD-Multiplexing.](https://arxiv.org/abs/2504.14489) *Shanghai Jiao Tong University & Huawei*
 - **\[Arxiv'25\]** [KVDirect: Distributed Disaggregated LLM Inference.](https://arxiv.org/abs/2501.14743) *Rutgers University & ByteDance*
 - **\[ICLR'25\]** [HexGen-2: Disaggregated Generative Inference of LLMs in Heterogeneous Environment.](https://arxiv.org/abs/2502.07903) *The Hong Kong University of Science and Technology*
 - **\[ICASSP'25\]** [DynamicAttention: Dynamic KV Cache for Disaggregate LLM Inference.](https://ieeexplore.ieee.org/document/10890367) *Ant Group*
