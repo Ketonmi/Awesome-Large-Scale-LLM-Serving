@@ -79,6 +79,7 @@ We sincerely welcome everyone to collect papers presented at top-tier conference
 
 > Accelerating LLM loading and service startup
 
+- **\[Arxiv'25\]** [ServerlessLoRA: Minimizing Latency and Cost in Serverless Inference for LoRA-Based LLMs.](https://arxiv.org/abs/2505.14468)  *Shanghai Jiao Tong University  &  Stevens Institute of Technology*
 - **\[Arxiv'25\]** [𝜆Scale: Enabling Fast Scaling for Serverless Large Language Model Inference.](https://arxiv.org/abs/2502.09922)  *The Chinese University of Hong Kong  &  University of Virginia &  Hong Kong University of Science and Technology &  Alibaba Group &  Nokia Bell Labs*
 - **\[Arxiv'25\]** [Towards Swift Serverless LLM Cold Starts with ParaServe.](https://arxiv.org/abs/2502.15524)  *Peking University & Alibaba Group*
 - **\[ASPLOS'25\]** [Medusa: Accelerating Serverless LLM Inference with Materialization.](https://dl.acm.org/doi/10.1145/3669940.3707285)  *Tsinghua University* 
