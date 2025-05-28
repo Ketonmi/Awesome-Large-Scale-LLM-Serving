@@ -90,6 +90,7 @@ We sincerely welcome everyone to collect papers presented at top-tier conference
 
 > Enhancing p/d disaggregation-based LLM serving
 
+- **\[Arxiv'25\]** [DynaServe: Unified and Elastic Execution for Dynamic Disaggregated LLM Serving.](https://arxiv.org/abs/2504.09285) *National University of Singapore & University of California at Berkeley & University of Science and Technology of China*
 - **\[Arxiv'25\]** [Optimizing SLO-oriented LLM Serving with PD-Multiplexing.](https://arxiv.org/abs/2504.14489) *Shanghai Jiao Tong University & Huawei*
 - **\[Arxiv'25\]** [KVDirect: Distributed Disaggregated LLM Inference.](https://arxiv.org/abs/2501.14743) *Rutgers University & ByteDance*
 - **\[ICLR'25\]** [HexGen-2: Disaggregated Generative Inference of LLMs in Heterogeneous Environment.](https://arxiv.org/abs/2502.07903) *The Hong Kong University of Science and Technology*
